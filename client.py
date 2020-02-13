@@ -43,7 +43,6 @@ except TimeoutError:
     print("Connection failed ! The server doesn't reply to the request ! IPv4 : {0[0]}".format(connection))
     quit = input()
 
-# Fermeture du socket client
 
 
 
